@@ -1,0 +1,13 @@
+C:\Users\asantos\Downloads\FacadeDesignPattern-20190328T130336Z-001\FacadeDesignPattern\Facade.WebApi\bin\Debug\netcoreapp2.2\Facade.WebApi.deps.json
+C:\Users\asantos\Downloads\FacadeDesignPattern-20190328T130336Z-001\FacadeDesignPattern\Facade.WebApi\bin\Debug\netcoreapp2.2\Facade.WebApi.runtimeconfig.json
+C:\Users\asantos\Downloads\FacadeDesignPattern-20190328T130336Z-001\FacadeDesignPattern\Facade.WebApi\bin\Debug\netcoreapp2.2\Facade.WebApi.runtimeconfig.dev.json
+C:\Users\asantos\Downloads\FacadeDesignPattern-20190328T130336Z-001\FacadeDesignPattern\Facade.WebApi\bin\Debug\netcoreapp2.2\Facade.WebApi.dll
+C:\Users\asantos\Downloads\FacadeDesignPattern-20190328T130336Z-001\FacadeDesignPattern\Facade.WebApi\bin\Debug\netcoreapp2.2\Facade.WebApi.pdb
+C:\Users\asantos\Downloads\FacadeDesignPattern-20190328T130336Z-001\FacadeDesignPattern\Facade.WebApi\obj\Debug\netcoreapp2.2\Facade.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\asantos\Downloads\FacadeDesignPattern-20190328T130336Z-001\FacadeDesignPattern\Facade.WebApi\obj\Debug\netcoreapp2.2\Facade.WebApi.RazorAssemblyInfo.cache
+C:\Users\asantos\Downloads\FacadeDesignPattern-20190328T130336Z-001\FacadeDesignPattern\Facade.WebApi\obj\Debug\netcoreapp2.2\Facade.WebApi.RazorAssemblyInfo.cs
+C:\Users\asantos\Downloads\FacadeDesignPattern-20190328T130336Z-001\FacadeDesignPattern\Facade.WebApi\obj\Debug\netcoreapp2.2\Facade.WebApi.AssemblyInfoInputs.cache
+C:\Users\asantos\Downloads\FacadeDesignPattern-20190328T130336Z-001\FacadeDesignPattern\Facade.WebApi\obj\Debug\netcoreapp2.2\Facade.WebApi.AssemblyInfo.cs
+C:\Users\asantos\Downloads\FacadeDesignPattern-20190328T130336Z-001\FacadeDesignPattern\Facade.WebApi\obj\Debug\netcoreapp2.2\Facade.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\asantos\Downloads\FacadeDesignPattern-20190328T130336Z-001\FacadeDesignPattern\Facade.WebApi\obj\Debug\netcoreapp2.2\Facade.WebApi.dll
+C:\Users\asantos\Downloads\FacadeDesignPattern-20190328T130336Z-001\FacadeDesignPattern\Facade.WebApi\obj\Debug\netcoreapp2.2\Facade.WebApi.pdb
